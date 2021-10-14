@@ -397,18 +397,11 @@
         "links": [],
         "examples": []
       },
-      "members":       [
-                {
-          "name": "currentEntity",
-          "type": "All APIs.Marketing Tags._com_wixpress_marketing_tags_api_v1_MarketingTag",
-          "doc": "Event body"
-        },
-                {
-          "name": "previousEntity",
-          "type": "All APIs.Marketing Tags._com_wixpress_marketing_tags_api_v1_MarketingTag",
-          "doc": "Previous event body, (when relevant)."
-        }
-      ],
+      "members": [      {
+        "name": "currentEntity",
+        "type": "All APIs.Marketing Tags._com_wixpress_marketing_tags_api_v1_MarketingTag",
+        "doc": "Event body"
+      }],
       "enum": null,
       "extra": {},
       "labels": []
